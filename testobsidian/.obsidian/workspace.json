@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "newFile/hello World.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "newFile/hello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "newFile/hello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "newFile/hello World.md"
               }
             }
           }
@@ -169,7 +169,12 @@
   },
   "active": "6d2c1cf4bec3d04c",
   "lastOpenFiles": [
-    "LICENSE.md",
-    "readme.md"
+    "readme.md",
+    "newFile/hello World.md",
+    "newFile",
+    "id_rsa.pub",
+    "id_rsa",
+    "id_rsa.pub.pub",
+    "LICENSE.md"
   ]
 }
